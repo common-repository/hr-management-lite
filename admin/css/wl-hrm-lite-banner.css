@@ -1,0 +1,33 @@
+.card-body.banner {
+    padding-top: 58px !important;
+    padding-bottom: 58px !important;
+}
+
+.col-6.inner-banner-sec.description-sec.text-center {
+    padding-top: 50px;
+}
+
+.plugin-heading h1 {
+    color: #9a55ff;
+    font-size: 32px;
+}
+
+p.plugin_details.price {
+    font-size: 21px;
+    color: red;
+}
+
+div#wpwrap {
+    background: #f2edf3;
+}
+
+h4.card-title.help_banner {
+    color: #a15bff;
+    font-size: 20px;
+}
+
+.help_banner_dash .inner-banner-sec p {
+    border: 1px dashed #ccc;
+    padding: 11px;
+    border-radius: 8px;
+}

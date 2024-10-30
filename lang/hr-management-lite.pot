@@ -1,0 +1,2576 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-08 11:23+0530\n"
+"PO-Revision-Date: 2019-11-08 11:24+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: admin/WL_HRML_MENU.php:11 admin/WL_HRML_MENU.php:18
+msgid "HR Management Lite"
+msgstr ""
+
+#: admin/WL_HRML_MENU.php:18 admin/WL_HRML_MENU.php:116
+#: admin/inc/wl_hrm-lite_dashboard.php:15
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:16
+msgid "Dashboard"
+msgstr ""
+
+#: admin/WL_HRML_MENU.php:25 admin/inc/administrator/wl_hrm-lite_staff.php:40
+#: admin/inc/administrator/wl_hrm-lite_staff.php:101
+msgid "Designation"
+msgstr ""
+
+#: admin/WL_HRML_MENU.php:32
+#: admin/inc/administrator/wl_hrm-lite_requests.php:14
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:14
+msgid "Leave Requests"
+msgstr ""
+
+#: admin/WL_HRML_MENU.php:39 admin/inc/wl_hrm-lite_dashboard.php:58
+#: admin/inc/administrator/wl_hrm-lite_shift.php:14
+#: admin/inc/administrator/wl_hrm-lite_shift.php:30
+msgid "Shifts"
+msgstr ""
+
+#: admin/WL_HRML_MENU.php:46
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:139
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:590
+msgid "Staff"
+msgstr ""
+
+#: admin/WL_HRML_MENU.php:53 admin/WL_HRML_MENU.php:123
+#: admin/inc/administrator/wl_hrm-lite_reports.php:15
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:15
+msgid "Reports"
+msgstr ""
+
+#: admin/WL_HRML_MENU.php:60 admin/inc/administrator/wl_hrm-lite_event.php:14
+#: admin/inc/administrator/wl_hrm-lite_event.php:30
+msgid "Events"
+msgstr ""
+
+#: admin/WL_HRML_MENU.php:67 admin/inc/administrator/wl_hrm-lite_notice.php:14
+#: admin/inc/subscriber/wl_hrm_lite_staff_notices.php:14
+msgid "Notices"
+msgstr ""
+
+#: admin/WL_HRML_MENU.php:74 admin/WL_HRML_MENU.php:138
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:14
+#: admin/inc/subscriber/wl_hrm_lite_staff_holidays.php:14
+msgid "Holidays"
+msgstr ""
+
+#: admin/WL_HRML_MENU.php:81 admin/WL_HRML_MENU.php:156
+#: admin/inc/administrator/wl_hrm-lite_project.php:15
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:15
+msgid "Projects"
+msgstr ""
+
+#: admin/WL_HRML_MENU.php:88
+msgid "Notifications"
+msgstr ""
+
+#: admin/WL_HRML_MENU.php:95 admin/inc/wl_hrm-lite_settings.php:40
+msgid "Settings"
+msgstr ""
+
+#: admin/WL_HRML_MENU.php:130
+#: admin/inc/administrator/wl_hrm-lite_requests.php:32
+#: admin/inc/administrator/wl_hrm-lite_requests.php:89
+#: admin/inc/administrator/wl_hrm-lite_staff.php:41
+#: admin/inc/administrator/wl_hrm-lite_staff.php:102
+#: admin/inc/administrator/wl_hrm-lite_staff.php:188
+#: admin/inc/administrator/wl_hrm-lite_staff.php:285
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:41
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:98
+msgid "Leaves"
+msgstr ""
+
+#: admin/WL_HRML_MENU.php:147
+#: admin/inc/administrator/wl_hrm-lite_notice.php:31
+#: admin/inc/subscriber/wl_hrm_lite_staff_notices.php:22
+msgid "Notice"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:20
+#: admin/inc/wl_hrm-lite_settings.php:45
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:21
+msgid "Overview"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:47
+msgid "Pending Leaves"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:69
+#: admin/inc/administrator/wl_hrm-lite_shift.php:39
+#: admin/inc/administrator/wl_hrm-lite_shift.php:86
+#: admin/inc/administrator/wl_hrm-lite_staff.php:16
+#: admin/inc/administrator/wl_hrm-lite_staff.php:32
+msgid "Staffs"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:81
+msgid "Staff's Live Status"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:86
+#: admin/inc/wl_hrm-lite_dashboard.php:148
+#: admin/inc/administrator/wl_hrm-lite_designation.php:35
+#: admin/inc/administrator/wl_hrm-lite_designation.php:79
+#: admin/inc/administrator/wl_hrm-lite_event.php:34
+#: admin/inc/administrator/wl_hrm-lite_event.php:81
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:35
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:88
+#: admin/inc/administrator/wl_hrm-lite_notice.php:35
+#: admin/inc/administrator/wl_hrm-lite_notice.php:88
+#: admin/inc/administrator/wl_hrm-lite_notification.php:101
+#: admin/inc/administrator/wl_hrm-lite_notification.php:159
+#: admin/inc/administrator/wl_hrm-lite_project.php:35
+#: admin/inc/administrator/wl_hrm-lite_project.php:94
+#: admin/inc/administrator/wl_hrm-lite_requests.php:26
+#: admin/inc/administrator/wl_hrm-lite_requests.php:83
+#: admin/inc/administrator/wl_hrm-lite_shift.php:34
+#: admin/inc/administrator/wl_hrm-lite_shift.php:81
+#: admin/inc/administrator/wl_hrm-lite_staff.php:36
+#: admin/inc/administrator/wl_hrm-lite_staff.php:97
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:295
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:307
+#: admin/inc/subscriber/wl_hrm_lite_staff_holidays.php:26
+#: admin/inc/subscriber/wl_hrm_lite_staff_holidays.php:65
+#: admin/inc/subscriber/wl_hrm_lite_staff_notices.php:26
+#: admin/inc/subscriber/wl_hrm_lite_staff_notices.php:63
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:26
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:75
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:35
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:92
+msgid "No."
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:87
+#: admin/inc/wl_hrm-lite_dashboard.php:149
+#: admin/inc/wl_hrm-lite_dashboard.php:222
+#: admin/inc/administrator/wl_hrm-lite_designation.php:36
+#: admin/inc/administrator/wl_hrm-lite_designation.php:80
+#: admin/inc/administrator/wl_hrm-lite_event.php:35
+#: admin/inc/administrator/wl_hrm-lite_event.php:82
+#: admin/inc/administrator/wl_hrm-lite_event.php:135
+#: admin/inc/administrator/wl_hrm-lite_event.php:175
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:36
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:89
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:141
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:177
+#: admin/inc/administrator/wl_hrm-lite_notice.php:114
+#: admin/inc/administrator/wl_hrm-lite_notice.php:146
+#: admin/inc/administrator/wl_hrm-lite_project.php:36
+#: admin/inc/administrator/wl_hrm-lite_project.php:95
+#: admin/inc/administrator/wl_hrm-lite_project.php:120
+#: admin/inc/administrator/wl_hrm-lite_project.php:163
+#: admin/inc/administrator/wl_hrm-lite_project.php:240
+#: admin/inc/administrator/wl_hrm-lite_project.php:290
+#: admin/inc/administrator/wl_hrm-lite_reports.php:76
+#: admin/inc/administrator/wl_hrm-lite_reports.php:100
+#: admin/inc/administrator/wl_hrm-lite_reports.php:133
+#: admin/inc/administrator/wl_hrm-lite_reports.php:137
+#: admin/inc/administrator/wl_hrm-lite_requests.php:111
+#: admin/inc/administrator/wl_hrm-lite_shift.php:35
+#: admin/inc/administrator/wl_hrm-lite_shift.php:82
+#: admin/inc/administrator/wl_hrm-lite_shift.php:109
+#: admin/inc/administrator/wl_hrm-lite_shift.php:152
+#: admin/inc/administrator/wl_hrm-lite_staff.php:37
+#: admin/inc/administrator/wl_hrm-lite_staff.php:98
+#: admin/inc/administrator/wl_hrm-lite_staff.php:190
+#: admin/inc/administrator/wl_hrm-lite_staff.php:287
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1846
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:222
+#: admin/inc/subscriber/wl_hrm_lite_staff_holidays.php:27
+#: admin/inc/subscriber/wl_hrm_lite_staff_holidays.php:66
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:27
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:76
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:101
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:144
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:221
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:271
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:65
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:89
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:120
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:155
+msgid "Name"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:88
+#: admin/inc/wl_hrm-lite_dashboard.php:150
+#: admin/inc/administrator/wl_hrm-lite_reports.php:78
+#: admin/inc/administrator/wl_hrm-lite_reports.php:102
+#: admin/inc/helpers/wl-hrm-lite-helper.php:729
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:67
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:91
+msgid "Office In"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:89
+#: admin/inc/wl_hrm-lite_dashboard.php:151
+#: admin/inc/administrator/wl_hrm-lite_reports.php:79
+#: admin/inc/administrator/wl_hrm-lite_reports.php:103
+#: admin/inc/helpers/wl-hrm-lite-helper.php:740
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:68
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:92
+msgid "Office Out"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:90
+#: admin/inc/wl_hrm-lite_dashboard.php:152
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:80
+#: admin/inc/helpers/wl-hrm-lite-helper.php:754
+msgid "Lunch In"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:91
+#: admin/inc/wl_hrm-lite_dashboard.php:153
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:84
+#: admin/inc/helpers/wl-hrm-lite-helper.php:748
+msgid "Lunch Out"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:92
+#: admin/inc/wl_hrm-lite_dashboard.php:154
+msgid "Working Hour's"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:93
+#: admin/inc/wl_hrm-lite_dashboard.php:155
+msgid "Puntuality"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:94
+#: admin/inc/wl_hrm-lite_dashboard.php:156
+msgid "IP Address"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:95
+#: admin/inc/wl_hrm-lite_dashboard.php:157
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:98
+msgid "Location"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:96
+#: admin/inc/wl_hrm-lite_dashboard.php:158
+#: admin/inc/administrator/wl_hrm-lite_designation.php:38
+#: admin/inc/administrator/wl_hrm-lite_designation.php:82
+#: admin/inc/administrator/wl_hrm-lite_designation.php:110
+#: admin/inc/administrator/wl_hrm-lite_designation.php:141
+#: admin/inc/administrator/wl_hrm-lite_event.php:39
+#: admin/inc/administrator/wl_hrm-lite_event.php:86
+#: admin/inc/administrator/wl_hrm-lite_event.php:150
+#: admin/inc/administrator/wl_hrm-lite_event.php:190
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:39
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:92
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:152
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:188
+#: admin/inc/administrator/wl_hrm-lite_notice.php:39
+#: admin/inc/administrator/wl_hrm-lite_notice.php:92
+#: admin/inc/administrator/wl_hrm-lite_notice.php:121
+#: admin/inc/administrator/wl_hrm-lite_notice.php:153
+#: admin/inc/administrator/wl_hrm-lite_project.php:40
+#: admin/inc/administrator/wl_hrm-lite_project.php:99
+#: admin/inc/administrator/wl_hrm-lite_project.php:139
+#: admin/inc/administrator/wl_hrm-lite_project.php:182
+#: admin/inc/administrator/wl_hrm-lite_requests.php:33
+#: admin/inc/administrator/wl_hrm-lite_requests.php:90
+#: admin/inc/administrator/wl_hrm-lite_requests.php:126
+#: admin/inc/administrator/wl_hrm-lite_shift.php:40
+#: admin/inc/administrator/wl_hrm-lite_shift.php:87
+#: admin/inc/administrator/wl_hrm-lite_shift.php:127
+#: admin/inc/administrator/wl_hrm-lite_shift.php:170
+#: admin/inc/administrator/wl_hrm-lite_staff.php:43
+#: admin/inc/administrator/wl_hrm-lite_staff.php:104
+#: admin/inc/administrator/wl_hrm-lite_staff.php:198
+#: admin/inc/administrator/wl_hrm-lite_staff.php:295
+#: admin/inc/subscriber/wl_hrm_lite_staff_holidays.php:30
+#: admin/inc/subscriber/wl_hrm_lite_staff_holidays.php:69
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:31
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:80
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:120
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:163
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:42
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:99
+msgid "Status"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:97
+#: admin/inc/wl_hrm-lite_dashboard.php:159
+#: admin/inc/administrator/wl_hrm-lite_designation.php:39
+#: admin/inc/administrator/wl_hrm-lite_designation.php:83
+#: admin/inc/administrator/wl_hrm-lite_event.php:40
+#: admin/inc/administrator/wl_hrm-lite_event.php:87
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:40
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:93
+#: admin/inc/administrator/wl_hrm-lite_notice.php:40
+#: admin/inc/administrator/wl_hrm-lite_notice.php:93
+#: admin/inc/administrator/wl_hrm-lite_requests.php:34
+#: admin/inc/administrator/wl_hrm-lite_requests.php:91
+#: admin/inc/administrator/wl_hrm-lite_shift.php:41
+#: admin/inc/administrator/wl_hrm-lite_shift.php:88
+#: admin/inc/administrator/wl_hrm-lite_staff.php:44
+#: admin/inc/administrator/wl_hrm-lite_staff.php:105
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:43
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:100
+msgid "Action"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:127
+msgid "Login"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:133
+msgid "Logout"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:142
+#: admin/inc/administrator/wl_hrm-lite_staff.php:91
+msgid "No Staff added yet.!"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:177
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:177
+msgid "Notice's"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:182
+#: admin/inc/wl_hrm-lite_dashboard.php:202
+#: admin/inc/administrator/wl_hrm-lite_notice.php:36
+#: admin/inc/administrator/wl_hrm-lite_notice.php:89
+#: admin/inc/administrator/wl_hrm-lite_requests.php:27
+#: admin/inc/administrator/wl_hrm-lite_requests.php:84
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:182
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:202
+#: admin/inc/subscriber/wl_hrm_lite_staff_notices.php:27
+#: admin/inc/subscriber/wl_hrm_lite_staff_notices.php:64
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:36
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:93
+msgid "Title"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:183
+#: admin/inc/administrator/wl_hrm-lite_event.php:36
+#: admin/inc/administrator/wl_hrm-lite_event.php:83
+#: admin/inc/administrator/wl_hrm-lite_notice.php:38
+#: admin/inc/administrator/wl_hrm-lite_notice.php:91
+#: admin/inc/administrator/wl_hrm-lite_notification.php:103
+#: admin/inc/administrator/wl_hrm-lite_notification.php:161
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:831
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:183
+#: admin/inc/subscriber/wl_hrm_lite_staff_notices.php:28
+#: admin/inc/subscriber/wl_hrm_lite_staff_notices.php:65
+msgid "Description"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:197
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:197
+msgid "Upcoming Event's"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:203
+#: admin/inc/wl_hrm-lite_dashboard.php:223
+#: admin/inc/administrator/wl_hrm-lite_event.php:37
+#: admin/inc/administrator/wl_hrm-lite_event.php:84
+#: admin/inc/administrator/wl_hrm-lite_notice.php:37
+#: admin/inc/administrator/wl_hrm-lite_notice.php:90
+#: admin/inc/administrator/wl_hrm-lite_reports.php:75
+#: admin/inc/administrator/wl_hrm-lite_reports.php:99
+#: admin/inc/administrator/wl_hrm-lite_reports.php:136
+#: admin/inc/administrator/wl_hrm-lite_requests.php:30
+#: admin/inc/administrator/wl_hrm-lite_requests.php:87
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1874
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:203
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:223
+#: admin/inc/subscriber/wl_hrm_lite_staff_notices.php:29
+#: admin/inc/subscriber/wl_hrm_lite_staff_notices.php:66
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:64
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:88
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:39
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:96
+msgid "Date"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:217
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:217
+msgid "Upcoming Holiday's"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_dashboard.php:224
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:38
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:91
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:294
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:302
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:306
+#: admin/inc/helpers/wl-hrm-lite-helper.php:704
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1107
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1514
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1641
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1645
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1649
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1653
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1666
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:224
+#: admin/inc/subscriber/wl_hrm_lite_staff_holidays.php:29
+#: admin/inc/subscriber/wl_hrm_lite_staff_holidays.php:68
+msgid "Days"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:28
+#: admin/inc/wl_hrm_lite_default_options.php:46
+#: admin/inc/controllers/wl-hrm-lite-settings.php:30
+msgid "Login Alert From Employee & HR Management"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:29
+#: admin/inc/wl_hrm_lite_default_options.php:47
+#: admin/inc/controllers/wl-hrm-lite-settings.php:31
+msgid "Logout Alert From Employee & HR Management"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:30
+#: admin/inc/wl_hrm_lite_default_options.php:48
+#: admin/inc/controllers/wl-hrm-lite-settings.php:32
+msgid "Staff Login/Logout Details"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:57
+msgid "General settings"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:65
+msgid "TimeZone"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:68
+msgid ""
+"----------------------------------------------------------Select "
+"timezone----------------------------------------------------------"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:78
+msgid "Date Format"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:95
+msgid "Time Format"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:108
+msgid "Select Halfday Days, If any."
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:120
+msgid "Monday"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:130
+msgid "Thursday"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:142
+msgid "Tuesday"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:148
+msgid "Friday"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:156
+msgid "Wednesday"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:166
+msgid "Saturday"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:177
+msgid "Halfday Start Time"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:179
+#: admin/inc/administrator/wl_hrm-lite_reports.php:141
+#: admin/inc/administrator/wl_hrm-lite_reports.php:145
+#: admin/inc/administrator/wl_hrm-lite_reports.php:149
+#: admin/inc/administrator/wl_hrm-lite_reports.php:153
+#: admin/inc/administrator/wl_hrm-lite_shift.php:113
+#: admin/inc/administrator/wl_hrm-lite_shift.php:156
+msgid "Format:- 10:00 AM"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:185
+msgid "Halfday End Time"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:187
+msgid "Format:- 03:00 PM"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:195
+msgid "Lunch Start Time"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:197
+msgid "Format:- 02:00 PM"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:203
+msgid "Lunch End Time"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:205
+msgid "Format:- 02:30 PM"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:213
+msgid "Currency Symbol"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:221
+msgid "Currency Position"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:224
+msgid "Right"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:225
+msgid "Left"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:234
+msgid "Salary paid by"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:239
+msgid "Monthly"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:247
+msgid "Hourly"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:255
+msgid "Include/Exclude Lunch time from Working Hours"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:260
+msgid "Include"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:268
+msgid "Exclude"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:276
+msgid "Staff's settings"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:280
+msgid "Show Holidays"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:285
+#: admin/inc/wl_hrm-lite_settings.php:306
+#: admin/inc/wl_hrm-lite_settings.php:329
+#: admin/inc/wl_hrm-lite_settings.php:350
+#: admin/inc/wl_hrm-lite_settings.php:373
+#: admin/inc/wl_hrm-lite_settings.php:394
+#: admin/inc/wl_hrm-lite_settings.php:465
+msgid "Yes"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:293
+#: admin/inc/wl_hrm-lite_settings.php:314
+#: admin/inc/wl_hrm-lite_settings.php:337
+#: admin/inc/wl_hrm-lite_settings.php:358
+#: admin/inc/wl_hrm-lite_settings.php:381
+#: admin/inc/wl_hrm-lite_settings.php:402
+#: admin/inc/wl_hrm-lite_settings.php:473
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:139
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:590
+msgid "No"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:301
+msgid "Enable Report Submission"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:324
+msgid "Show Notice"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:345
+msgid "Enable Late Reason Submission"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:368
+msgid "Show Salary Status"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:389
+msgid "Show Projects"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:412
+msgid "Select roles for staff's."
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:423
+msgid "Subscriber"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:429
+msgid "Contributor"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:437
+msgid "Author"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:443
+msgid "Editor"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:449
+msgid "Staff's login dashboard shows only for selected user roles."
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:456
+msgid "Email Settings"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:460
+msgid "Shoot Mail when user Login/Logout"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:482
+msgid "Your logo for mail"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:489
+msgid "Upload"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:498
+msgid "Notification Mail Subject ( Office in )"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:506
+msgid "Notification Mail Subject ( Office out )"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:516
+msgid "Heading for mail content"
+msgstr ""
+
+#: admin/inc/wl_hrm-lite_settings.php:524
+msgid "Save Changes"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_designation.php:13
+#: admin/inc/administrator/wl_hrm-lite_designation.php:31
+msgid "Designations"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_designation.php:20
+msgid "Add Designation"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_designation.php:37
+#: admin/inc/administrator/wl_hrm-lite_designation.php:81
+msgid "Color"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_designation.php:73
+msgid "No Designations added yet.!"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_designation.php:99
+#: admin/inc/administrator/wl_hrm-lite_designation.php:130
+msgid "Designation Details"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_designation.php:102
+#: admin/inc/administrator/wl_hrm-lite_designation.php:133
+msgid "Designation Name"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_designation.php:103
+#: admin/inc/administrator/wl_hrm-lite_designation.php:134
+msgid "Designation Type"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_designation.php:106
+#: admin/inc/administrator/wl_hrm-lite_designation.php:137
+msgid "Designation Color"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_designation.php:112
+#: admin/inc/administrator/wl_hrm-lite_designation.php:143
+#: admin/inc/administrator/wl_hrm-lite_event.php:152
+#: admin/inc/administrator/wl_hrm-lite_event.php:192
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:154
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:190
+#: admin/inc/administrator/wl_hrm-lite_notice.php:123
+#: admin/inc/administrator/wl_hrm-lite_notice.php:155
+#: admin/inc/administrator/wl_hrm-lite_project.php:141
+#: admin/inc/administrator/wl_hrm-lite_project.php:184
+#: admin/inc/administrator/wl_hrm-lite_shift.php:129
+#: admin/inc/administrator/wl_hrm-lite_shift.php:172
+#: admin/inc/administrator/wl_hrm-lite_staff.php:200
+#: admin/inc/administrator/wl_hrm-lite_staff.php:297
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:122
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:165
+msgid "Active"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_designation.php:113
+#: admin/inc/administrator/wl_hrm-lite_designation.php:144
+#: admin/inc/administrator/wl_hrm-lite_event.php:153
+#: admin/inc/administrator/wl_hrm-lite_event.php:193
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:155
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:191
+#: admin/inc/administrator/wl_hrm-lite_notice.php:124
+#: admin/inc/administrator/wl_hrm-lite_notice.php:156
+#: admin/inc/administrator/wl_hrm-lite_project.php:142
+#: admin/inc/administrator/wl_hrm-lite_project.php:185
+#: admin/inc/administrator/wl_hrm-lite_shift.php:130
+#: admin/inc/administrator/wl_hrm-lite_shift.php:173
+#: admin/inc/administrator/wl_hrm-lite_staff.php:201
+#: admin/inc/administrator/wl_hrm-lite_staff.php:298
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:123
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:166
+msgid "Inactive"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_designation.php:116
+#: admin/inc/administrator/wl_hrm-lite_designation.php:148
+#: admin/inc/administrator/wl_hrm-lite_event.php:156
+#: admin/inc/administrator/wl_hrm-lite_event.php:197
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:158
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:195
+#: admin/inc/administrator/wl_hrm-lite_notice.php:127
+#: admin/inc/administrator/wl_hrm-lite_notice.php:160
+#: admin/inc/administrator/wl_hrm-lite_notification.php:81
+#: admin/inc/administrator/wl_hrm-lite_project.php:145
+#: admin/inc/administrator/wl_hrm-lite_project.php:189
+#: admin/inc/administrator/wl_hrm-lite_project.php:272
+#: admin/inc/administrator/wl_hrm-lite_project.php:323
+#: admin/inc/administrator/wl_hrm-lite_reports.php:176
+#: admin/inc/administrator/wl_hrm-lite_requests.php:136
+#: admin/inc/administrator/wl_hrm-lite_shift.php:133
+#: admin/inc/administrator/wl_hrm-lite_shift.php:177
+#: admin/inc/administrator/wl_hrm-lite_staff.php:204
+#: admin/inc/administrator/wl_hrm-lite_staff.php:302
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:138
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:159
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:126
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:170
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:253
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:304
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:137
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:173
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:107
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:128
+msgid "Submit"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_event.php:20
+msgid "Add Events"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_event.php:38
+#: admin/inc/administrator/wl_hrm-lite_event.php:85
+msgid "Time"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_event.php:75
+msgid "No Events added yet.!"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_event.php:103
+#: admin/inc/administrator/wl_hrm-lite_event.php:114
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:109
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:120
+msgid "Import"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_event.php:131
+#: admin/inc/administrator/wl_hrm-lite_event.php:171
+msgid "Event Details"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_event.php:134
+#: admin/inc/administrator/wl_hrm-lite_event.php:174
+msgid "Event Name"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_event.php:138
+#: admin/inc/administrator/wl_hrm-lite_event.php:178
+msgid "Event Description"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_event.php:139
+#: admin/inc/administrator/wl_hrm-lite_event.php:179
+#: admin/inc/administrator/wl_hrm-lite_notice.php:118
+#: admin/inc/administrator/wl_hrm-lite_notice.php:150
+#: admin/inc/administrator/wl_hrm-lite_project.php:124
+#: admin/inc/administrator/wl_hrm-lite_project.php:167
+#: admin/inc/administrator/wl_hrm-lite_project.php:244
+#: admin/inc/administrator/wl_hrm-lite_project.php:294
+#: admin/inc/administrator/wl_hrm-lite_reports.php:168
+#: admin/inc/administrator/wl_hrm-lite_reports.php:172
+#: admin/inc/administrator/wl_hrm-lite_requests.php:115
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:105
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:148
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:225
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:275
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:124
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:159
+msgid "Description...."
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_event.php:142
+#: admin/inc/administrator/wl_hrm-lite_event.php:182
+msgid "Event Date"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_event.php:146
+#: admin/inc/administrator/wl_hrm-lite_event.php:186
+msgid "Event Time"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:20
+msgid "Add Holiday"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:31
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:134
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:586
+#: admin/inc/subscriber/wl_hrm_lite_staff_holidays.php:22
+msgid "Holiday"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:37
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:90
+#: admin/inc/subscriber/wl_hrm_lite_staff_holidays.php:28
+#: admin/inc/subscriber/wl_hrm_lite_staff_holidays.php:67
+msgid "Date(s)"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:82
+#: admin/inc/subscriber/wl_hrm_lite_staff_holidays.php:59
+msgid "No Holidays added yet.!"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:137
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:173
+msgid "Holiday Details"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:140
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:176
+msgid "Holiday Name"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:144
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:180
+#: admin/inc/administrator/wl_hrm-lite_requests.php:118
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:127
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:162
+msgid "Holiday From"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:148
+#: admin/inc/administrator/wl_hrm-lite_holiday.php:184
+#: admin/inc/administrator/wl_hrm-lite_requests.php:122
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:131
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:166
+msgid "Holiday To"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notice.php:20
+msgid "Add Notice"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notice.php:82
+#: admin/inc/subscriber/wl_hrm_lite_staff_notices.php:57
+msgid "No notices added yet.!"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notice.php:110
+#: admin/inc/administrator/wl_hrm-lite_notice.php:142
+msgid "Notice Details"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notice.php:113
+#: admin/inc/administrator/wl_hrm-lite_notice.php:145
+msgid "Notice Title"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notice.php:117
+#: admin/inc/administrator/wl_hrm-lite_notice.php:149
+msgid "Notice Description"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:20
+msgid "Email Sender Options"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:35
+msgid ""
+"Email notification settings for HR Management Lite. Customize the look and "
+"feel of outgoing emails."
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:41
+msgid "\"From\" Name "
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:50
+msgid "\"From\" Address "
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:59
+msgid "Logo Image"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:64
+msgid "Upload File"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:71
+msgid "Footer Text"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:96
+msgid "Notification Emails"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:102
+#: admin/inc/administrator/wl_hrm-lite_notification.php:160
+#: admin/inc/administrator/wl_hrm-lite_staff.php:38
+#: admin/inc/administrator/wl_hrm-lite_staff.php:99
+#: admin/inc/administrator/wl_hrm-lite_staff.php:153
+#: admin/inc/administrator/wl_hrm-lite_staff.php:154
+#: admin/inc/administrator/wl_hrm-lite_staff.php:250
+#: admin/inc/administrator/wl_hrm-lite_staff.php:251
+msgid "Email"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:110
+msgid "Employee welcome"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:117
+msgid "New Leave Request"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:124
+msgid "Approved Leave Request"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:131
+msgid "Rejected Leave Request"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:138
+msgid "New Project Assigned"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:145
+msgid "New Task Assigned"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:152
+msgid "New Employee Introduction Email"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:179
+msgid "Subject"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:180
+msgid "Email Subject"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:183
+msgid "Email Heading"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:184
+msgid "Email heading...."
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:187
+msgid "Email Body"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:194
+msgid "Template Tags"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_notification.php:199
+msgid "Save changes"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:21
+msgid "Add Project"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:37
+#: admin/inc/administrator/wl_hrm-lite_project.php:96
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:28
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:77
+msgid "Started On"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:38
+#: admin/inc/administrator/wl_hrm-lite_project.php:97
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:29
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:78
+msgid "Member(s)"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:39
+#: admin/inc/administrator/wl_hrm-lite_project.php:98
+#: admin/inc/administrator/wl_hrm-lite_project.php:135
+#: admin/inc/administrator/wl_hrm-lite_project.php:178
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:30
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:79
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:116
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:159
+msgid "Tags"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:41
+#: admin/inc/administrator/wl_hrm-lite_project.php:100
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:32
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:81
+msgid "Actions"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:73
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:80
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:204
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:290
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:64
+msgid "View Tasks"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:78
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:85
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:209
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:295
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:114
+msgid "Edit"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:83
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:90
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:214
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:300
+msgid "Delete"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:116
+#: admin/inc/administrator/wl_hrm-lite_project.php:159
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:97
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:140
+msgid "Project Details"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:119
+#: admin/inc/administrator/wl_hrm-lite_project.php:162
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:100
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:143
+msgid "Project Title"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:123
+#: admin/inc/administrator/wl_hrm-lite_project.php:166
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:104
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:147
+msgid "Project Description"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:127
+#: admin/inc/administrator/wl_hrm-lite_project.php:170
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:108
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:151
+msgid "Select Members"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:136
+#: admin/inc/administrator/wl_hrm-lite_project.php:179
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:117
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:160
+msgid "Type something and hit enter"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:208
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:189
+msgid "Task List"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:214
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:195
+msgid "Add Tasks"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:236
+#: admin/inc/administrator/wl_hrm-lite_project.php:286
+#: admin/inc/administrator/wl_hrm-lite_project.php:342
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:217
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:267
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:323
+msgid "Task Details"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:239
+#: admin/inc/administrator/wl_hrm-lite_project.php:289
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:220
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:270
+msgid "Task Title"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:243
+#: admin/inc/administrator/wl_hrm-lite_project.php:293
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:224
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:274
+msgid "Task Description"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:247
+#: admin/inc/administrator/wl_hrm-lite_project.php:297
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:228
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:278
+msgid "Assigned to"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:252
+#: admin/inc/administrator/wl_hrm-lite_project.php:302
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:233
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:283
+msgid "Priority"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:254
+#: admin/inc/administrator/wl_hrm-lite_project.php:304
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:235
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:285
+msgid "Low"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:255
+#: admin/inc/administrator/wl_hrm-lite_project.php:305
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:236
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:286
+msgid "Medium"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:256
+#: admin/inc/administrator/wl_hrm-lite_project.php:306
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:237
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:287
+msgid "High"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:260
+#: admin/inc/administrator/wl_hrm-lite_project.php:310
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:298
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:310
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:241
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:291
+msgid "Progress"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:262
+#: admin/inc/administrator/wl_hrm-lite_project.php:312
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:243
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:293
+msgid "No Progress"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:263
+#: admin/inc/administrator/wl_hrm-lite_project.php:313
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:244
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:294
+msgid "Completed"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:264
+#: admin/inc/administrator/wl_hrm-lite_project.php:314
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:378
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:490
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:647
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:743
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:245
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:295
+msgid "In Progress"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_project.php:268
+#: admin/inc/administrator/wl_hrm-lite_project.php:318
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:249
+#: admin/inc/subscriber/wl_hrm_lite_staff_projects.php:299
+msgid "Due date"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:22
+msgid "Select Staff member"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:36
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:29
+msgid "Previous Three Month"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:37
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:30
+msgid "Previous Six Month"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:38
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:31
+msgid "Previous Nine Month"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:39
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:32
+msgid "Previous One Year"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:45
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:38
+msgid "All Days"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:46
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:39
+msgid "Only Attend days"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:47
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:40
+msgid "Only Absent Days"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:52
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:45
+msgid "Generate Report"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:66
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:58
+msgid "Expand All"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:69
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:59
+msgid "Collapse All"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:77
+#: admin/inc/administrator/wl_hrm-lite_reports.php:101
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:66
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:90
+msgid "Day"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:80
+#: admin/inc/administrator/wl_hrm-lite_reports.php:104
+#: admin/inc/administrator/wl_hrm-lite_reports.php:163
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:69
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:93
+msgid "Working Hours"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:81
+#: admin/inc/administrator/wl_hrm-lite_reports.php:105
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:70
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:94
+msgid "IP"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:82
+#: admin/inc/administrator/wl_hrm-lite_reports.php:106
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:71
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:95
+msgid "Other Details"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:91
+#: admin/inc/subscriber/wl_hrm_lite_staff_report.php:80
+msgid "No data"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:129
+msgid "Report Details"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:132
+#: admin/inc/administrator/wl_hrm-lite_requests.php:28
+#: admin/inc/administrator/wl_hrm-lite_requests.php:85
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:37
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:94
+msgid "Staff Name"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:140
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1902
+msgid "Office IN"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:144
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1931
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2064
+msgid "Office OUT"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:148
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2074
+msgid "Lunch IN"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:152
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2070
+msgid "Lunch OUT"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:156
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:88
+msgid "Punctuality"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:158
+msgid "Late"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:159
+msgid "On Time"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:167
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:102
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2080
+msgid "Late Reason"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_reports.php:171
+msgid "Daily Work Report"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_requests.php:22
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:31
+msgid "Requests"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_requests.php:29
+#: admin/inc/administrator/wl_hrm-lite_requests.php:86
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:38
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:95
+msgid "Short Description"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_requests.php:31
+#: admin/inc/administrator/wl_hrm-lite_requests.php:88
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:40
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:97
+msgid "Request For"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_requests.php:77
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:86
+msgid "No Requests added yet.!"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_requests.php:107
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:116
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:151
+msgid "Request Details"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_requests.php:110
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:119
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:154
+msgid "Request Title"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_requests.php:114
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:123
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:158
+msgid "Request Description"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_requests.php:119
+#: admin/inc/administrator/wl_hrm-lite_requests.php:123
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:128
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:132
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:163
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:167
+msgid "Format:- YYYY-MM-DD"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_requests.php:128
+msgid "Pending"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_requests.php:129
+msgid "Approved"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_requests.php:130
+msgid "Canceled"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_shift.php:20
+msgid "Add Shift"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_shift.php:36
+#: admin/inc/administrator/wl_hrm-lite_shift.php:83
+msgid "Start time"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_shift.php:37
+#: admin/inc/administrator/wl_hrm-lite_shift.php:84
+msgid "Ending time"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_shift.php:38
+#: admin/inc/administrator/wl_hrm-lite_shift.php:85
+msgid "Late time"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_shift.php:75
+msgid "No Shift added yet.!"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_shift.php:105
+#: admin/inc/administrator/wl_hrm-lite_shift.php:148
+msgid "Shift Details"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_shift.php:108
+#: admin/inc/administrator/wl_hrm-lite_shift.php:151
+msgid "Shift Name"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_shift.php:112
+#: admin/inc/administrator/wl_hrm-lite_shift.php:155
+msgid "Starting Time"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_shift.php:117
+#: admin/inc/administrator/wl_hrm-lite_shift.php:160
+msgid "Ending Time"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_shift.php:118
+#: admin/inc/administrator/wl_hrm-lite_shift.php:161
+msgid "Format:- 1:39 PM"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_shift.php:122
+#: admin/inc/administrator/wl_hrm-lite_shift.php:165
+msgid "Late Time"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_shift.php:123
+#: admin/inc/administrator/wl_hrm-lite_shift.php:166
+msgid "Format:- 10:15 AM"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:22
+msgid "Add Staff"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:39
+#: admin/inc/administrator/wl_hrm-lite_staff.php:100
+msgid "Shift"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:42
+#: admin/inc/administrator/wl_hrm-lite_staff.php:103
+#: admin/inc/administrator/wl_hrm-lite_staff.php:184
+#: admin/inc/administrator/wl_hrm-lite_staff.php:281
+msgid "Salary"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:121
+#: admin/inc/administrator/wl_hrm-lite_staff.php:219
+msgid "Staff Details"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:124
+#: admin/inc/administrator/wl_hrm-lite_staff.php:222
+msgid "Select User"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:126
+#: admin/inc/administrator/wl_hrm-lite_staff.php:224
+msgid "--------Select user---------"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:141
+#: admin/inc/administrator/wl_hrm-lite_staff.php:238
+msgid "Username"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:142
+#: admin/inc/administrator/wl_hrm-lite_staff.php:239
+msgid "User Name"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:145
+#: admin/inc/administrator/wl_hrm-lite_staff.php:146
+#: admin/inc/administrator/wl_hrm-lite_staff.php:242
+#: admin/inc/administrator/wl_hrm-lite_staff.php:243
+msgid "First Name"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:149
+#: admin/inc/administrator/wl_hrm-lite_staff.php:150
+#: admin/inc/administrator/wl_hrm-lite_staff.php:246
+#: admin/inc/administrator/wl_hrm-lite_staff.php:247
+msgid "Last Name"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:157
+#: admin/inc/administrator/wl_hrm-lite_staff.php:254
+msgid "Select Shift"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:159
+#: admin/inc/administrator/wl_hrm-lite_staff.php:256
+msgid "----------------Select user shift----------------"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:171
+#: admin/inc/administrator/wl_hrm-lite_staff.php:268
+msgid "Select Designation"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:173
+#: admin/inc/administrator/wl_hrm-lite_staff.php:270
+msgid "---------Select User Designation---------"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:185
+#: admin/inc/administrator/wl_hrm-lite_staff.php:282
+msgid "$1000"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:191
+#: admin/inc/administrator/wl_hrm-lite_staff.php:288
+msgid "Value"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:194
+#: admin/inc/administrator/wl_hrm-lite_staff.php:291
+msgid "Add More"
+msgstr ""
+
+#: admin/inc/administrator/wl_hrm-lite_staff.php:195
+#: admin/inc/administrator/wl_hrm-lite_staff.php:292
+msgid "Remove"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-admin-dash-actions.php:62
+msgid "Staff Office In Time is "
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-admin-dash-actions.php:65
+#: admin/inc/controllers/wl-hrm-lite-admin-dash-actions.php:107
+#: admin/inc/controllers/wl-hrm-lite-admin-dash-actions.php:112
+#: admin/inc/controllers/wl-hrm-lite-designation-action.php:113
+#: admin/inc/controllers/wl-hrm-lite-event-actions.php:120
+#: admin/inc/controllers/wl-hrm-lite-event-actions.php:268
+#: admin/inc/controllers/wl-hrm-lite-holiday-actions.php:121
+#: admin/inc/controllers/wl-hrm-lite-holiday-actions.php:271
+#: admin/inc/controllers/wl-hrm-lite-notice-actions.php:118
+#: admin/inc/controllers/wl-hrm-lite-notice-actions.php:273
+#: admin/inc/controllers/wl-hrm-lite-notification-actions.php:40
+#: admin/inc/controllers/wl-hrm-lite-notification-actions.php:68
+#: admin/inc/controllers/wl-hrm-lite-notification-actions.php:116
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:115
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:150
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:239
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:321
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:413
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:525
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:682
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:773
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:935
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:1058
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:1090
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:1212
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:1327
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:149
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:361
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:440
+#: admin/inc/controllers/wl-hrm-lite-requests-actions.php:92
+#: admin/inc/controllers/wl-hrm-lite-requests-actions.php:106
+#: admin/inc/controllers/wl-hrm-lite-requests-actions.php:210
+#: admin/inc/controllers/wl-hrm-lite-requests-actions.php:266
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:174
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:205
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:224
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:426
+#: admin/inc/controllers/wl-hrm-lite-staff-dash-actions.php:89
+#: admin/inc/controllers/wl-hrm-lite-staff-dash-actions.php:115
+#: admin/inc/controllers/wl-hrm-lite-staff-dash-actions.php:174
+#: admin/inc/controllers/wl-hrm-lite-staff-dash-actions.php:179
+#: admin/inc/controllers/wl-hrm-lite-staff-dash-actions.php:194
+#: admin/inc/controllers/wl-hrm-lite-staff-dash-actions.php:216
+#: admin/inc/controllers/wl-hrm-lite-staff-dash-actions.php:240
+#: public/inc/controllers/wl_hrm_lite_login_actions.php:66
+#: public/inc/controllers/wl_hrm_lite_login_actions.php:89
+#: public/inc/controllers/wl_hrm_lite_login_actions.php:115
+#: public/inc/controllers/wl_hrm_lite_login_actions.php:169
+#: public/inc/controllers/wl_hrm_lite_login_actions.php:174
+#: public/inc/controllers/wl_hrm_lite_login_actions.php:189
+#: public/inc/controllers/wl_hrm_lite_login_actions.php:211
+#: public/inc/controllers/wl_hrm_lite_login_actions.php:235
+msgid "Something went wrong.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-admin-dash-actions.php:104
+msgid "Staff Office Out Time is "
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-admin-dash-actions.php:116
+msgid "Staff already logged out.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-designation-action.php:63
+msgid "Designation added successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-designation-action.php:68
+msgid "Designation not added!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-designation-action.php:75
+#: admin/inc/controllers/wl-hrm-lite-designation-action.php:181
+#: admin/inc/controllers/wl-hrm-lite-event-actions.php:79
+#: admin/inc/controllers/wl-hrm-lite-event-actions.php:192
+#: admin/inc/controllers/wl-hrm-lite-holiday-actions.php:81
+#: admin/inc/controllers/wl-hrm-lite-holiday-actions.php:196
+#: admin/inc/controllers/wl-hrm-lite-notice-actions.php:81
+#: admin/inc/controllers/wl-hrm-lite-notice-actions.php:193
+#: admin/inc/controllers/wl-hrm-lite-notification-actions.php:36
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:111
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:235
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:521
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:678
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:93
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:280
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:161
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:331
+msgid "Please enter name.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-designation-action.php:77
+#: admin/inc/controllers/wl-hrm-lite-designation-action.php:183
+msgid "Please select color.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-designation-action.php:79
+#: admin/inc/controllers/wl-hrm-lite-designation-action.php:185
+#: admin/inc/controllers/wl-hrm-lite-holiday-actions.php:87
+#: admin/inc/controllers/wl-hrm-lite-holiday-actions.php:202
+#: admin/inc/controllers/wl-hrm-lite-notice-actions.php:85
+#: admin/inc/controllers/wl-hrm-lite-notice-actions.php:197
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:101
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:288
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:175
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:345
+msgid "Please select status.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-designation-action.php:171
+msgid "Designation updated successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-designation-action.php:175
+msgid "Designation not Updated!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-designation-action.php:244
+msgid "Designation deleted successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-designation-action.php:248
+msgid "Designation not Deleted!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-designation-action.php:254
+msgid "Something went wrong.!!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-event-actions.php:68
+msgid "Event added successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-event-actions.php:72
+msgid "Event not added!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-event-actions.php:81
+#: admin/inc/controllers/wl-hrm-lite-event-actions.php:194
+#: admin/inc/controllers/wl-hrm-lite-notice-actions.php:83
+#: admin/inc/controllers/wl-hrm-lite-notice-actions.php:195
+msgid "Please enter description.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-event-actions.php:83
+#: admin/inc/controllers/wl-hrm-lite-event-actions.php:196
+msgid "Please select date.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-event-actions.php:85
+#: admin/inc/controllers/wl-hrm-lite-event-actions.php:198
+msgid "Please select time.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-event-actions.php:182
+msgid "Event updated successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-event-actions.php:186
+msgid "Event not updated!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-event-actions.php:258
+msgid "Event delete successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-event-actions.php:262
+msgid "Event not deleted!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-holiday-actions.php:71
+msgid "Holiday added successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-holiday-actions.php:75
+msgid "Holiday not added!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-holiday-actions.php:83
+#: admin/inc/controllers/wl-hrm-lite-holiday-actions.php:198
+msgid "Please select starting date.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-holiday-actions.php:85
+#: admin/inc/controllers/wl-hrm-lite-holiday-actions.php:200
+msgid "Please select ending date.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-holiday-actions.php:186
+msgid "Holiday updated successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-holiday-actions.php:190
+msgid "Holiday not updated!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-holiday-actions.php:261
+msgid "Holiday deleted successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-holiday-actions.php:265
+msgid "Holiday not deleted!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-notice-actions.php:71
+msgid "Notice added successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-notice-actions.php:75
+msgid "Notice not added!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-notice-actions.php:183
+msgid "Notice updated successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-notice-actions.php:187
+msgid "Notice not updated!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-notice-actions.php:263
+msgid "Notice deleted successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-notice-actions.php:267
+msgid "Notice not deleted!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-notification-actions.php:27
+#: admin/inc/controllers/wl-hrm-lite-notification-actions.php:105
+msgid "Saved successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-notification-actions.php:30
+#: admin/inc/controllers/wl-hrm-lite-notification-actions.php:108
+msgid "Data not saved!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-notification-actions.php:38
+msgid "Please enter sender email.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-notification-actions.php:66
+msgid "Data Attribute not found.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-notification-actions.php:114
+msgid "Email template id not found.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:42
+msgid "You can add only 4 projects in free version.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:101
+msgid "Project added successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:105
+msgid "Project not added!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:113
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:237
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:523
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:680
+msgid "Please select member.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:225
+msgid "Project updated successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:229
+msgid "Project not updated!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:311
+msgid "Project deleted successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:315
+msgid "Project not deleted!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:345
+msgid "No tasks created yet.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:511
+msgid "Task added successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:515
+msgid "Task not added!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:668
+msgid "Task updated successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:672
+msgid "Task not updated!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:764
+msgid "Task deleted successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:768
+msgid "Task not deleted!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:836
+msgid "Comments"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:906
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:1037
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:1191
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:1309
+msgid "Attachments"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:921
+msgid "Upload Files"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:928
+msgid "Add Comment"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:929
+msgid "Edit Comment"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:930
+msgid "Close"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:1046
+msgid "Comment added successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:1050
+msgid "Comment not added!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:1056
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:1210
+msgid "Please enter something in comment box.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:1200
+msgid "Comment updated successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:1204
+msgid "Comment not updated!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:1318
+msgid "Comment deleted successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-projects-actions.php:1322
+msgid "Comment not deleted!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:106
+#: admin/inc/helpers/wl-hrm-lite-helper.php:773
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2086
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:152
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:121
+msgid "Daily Report"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:129
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:582
+msgid "Sunday"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:139
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:590
+msgid "absent"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:139
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:590
+msgid "on"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:139
+msgid "this day"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:139
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:590
+msgid "details"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:284
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:326
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:246
+msgid "Salary status"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:289
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1508
+msgid "Your Monthly Salary"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:293
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1513
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1652
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1665
+msgid "Total Working days"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:297
+msgid "Per day salary"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:301
+msgid "Total absent days"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:305
+msgid "Total present days"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:309
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1536
+msgid "Total Paid Salary as per total attendance"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:331
+msgid "Your Salary"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:335
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1549
+msgid "Estimate total time"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:336
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:344
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1168
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1550
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1562
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1565
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1670
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1674
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1679
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1683
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1687
+msgid "Hours"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:339
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1553
+msgid "Per hour salary"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:343
+msgid "Total working hours"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:347
+msgid "Your Calculated Salary according to your working hours.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:357
+msgid "Report and salary calulated for "
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:490
+msgid "Report edit successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:494
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:500
+msgid "Something went wrong!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:590
+msgid "this"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:590
+msgid "day"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:590
+msgid "found"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:590
+msgid "for"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-reports-actions.php:590
+msgid "this day."
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-requests-actions.php:87
+msgid "Your Request added.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-requests-actions.php:89
+#: admin/inc/controllers/wl-hrm-lite-requests-actions.php:207
+msgid "Request not added"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-requests-actions.php:263
+msgid "Request not deleted"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-settings.php:43
+msgid "Please select TimeZone"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-settings.php:46
+msgid "Please select Date format"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-settings.php:49
+msgid "Please select time format"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-settings.php:52
+msgid "Please enter half start time"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-settings.php:55
+msgid "Please enter half end time"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-settings.php:58
+msgid "Please enter lunch start time"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-settings.php:61
+msgid "Please enter lunch end time"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-settings.php:64
+msgid "Please enter currency symbol"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-settings.php:67
+msgid "Please select currency position"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-settings.php:101
+msgid "Settings updated successfully"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:36
+msgid "You can add only 2 shifts in free version.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:83
+msgid "Shift added successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:87
+msgid "Shift not added!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:95
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:282
+msgid "Please select start time.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:97
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:284
+msgid "Please select end time.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:99
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:286
+msgid "Please select late time.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:164
+msgid "Shift deleted successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:168
+msgid "Shift not deleted!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:270
+msgid "Shift updated successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-shift-actions.php:274
+msgid "Shift not updated!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:146
+msgid "Staff added successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:150
+msgid "Staff not added!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:155
+msgid "Staff already exist.!!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:163
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:333
+msgid "Please enter first name.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:165
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:335
+msgid "Please enter last name.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:167
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:337
+msgid "Please enter email.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:169
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:339
+msgid "Please select shift.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:171
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:341
+msgid "Please select designation.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:173
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:343
+msgid "Please enter salary.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:322
+msgid "Staff updated successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:326
+msgid "Staff not updated!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:417
+msgid "Staff deleted successfully!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-actions.php:421
+msgid "Staff not deleted!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-dash-actions.php:57
+#: admin/inc/helpers/wl-hrm-lite-helper.php:798
+#: admin/inc/helpers/wl-hrm-lite-helper.php:802
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:67
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:70
+msgid "Your Office In Time is"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-dash-actions.php:66
+msgid "Unable to Office In, Try again.!"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-dash-actions.php:86
+#: admin/inc/helpers/wl-hrm-lite-helper.php:808
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:74
+msgid "Your Lunch In Time is"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-dash-actions.php:112
+#: admin/inc/helpers/wl-hrm-lite-helper.php:814
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:78
+msgid "Your Lunch Out Time is"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-dash-actions.php:165
+#: admin/inc/helpers/wl-hrm-lite-helper.php:820
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:82
+msgid "Your Office Out Time is"
+msgstr ""
+
+#: admin/inc/controllers/wl-hrm-lite-staff-dash-actions.php:214
+#: admin/inc/controllers/wl-hrm-lite-staff-dash-actions.php:238
+msgid "Updated"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:379
+msgid "Good Morning"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:382
+msgid "Good Afternoon "
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:385
+msgid "Good Evening "
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:388
+msgid "Good Night "
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:516
+msgid "Logged in"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:763
+msgid "Late Reson"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:798
+#: admin/inc/helpers/wl-hrm-lite-helper.php:808
+#: admin/inc/helpers/wl-hrm-lite-helper.php:814
+#: admin/inc/helpers/wl-hrm-lite-helper.php:820
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:74
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:78
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:82
+msgid "Success!"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:802
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:70
+msgid "You are late today!"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:825
+msgid "No activity found.!"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:905
+msgid "No Notice Found.!"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:946
+msgid "No Events Found.!"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:984
+msgid "No Holiday Found.!"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1170
+msgid "No data found"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1331
+msgid "Logged In"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1333
+msgid "Logged Out"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1518
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1523
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1656
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1660
+msgid "This Month ("
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1518
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1656
+msgid "as per day Salary"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1523
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1660
+msgid "as per day total Salary"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1528
+msgid "This Month Total Unpaid salary"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1557
+msgid "Calculated salary"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1561
+msgid "Your total working hours"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1565
+msgid "Your total salary"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1636
+msgid "Estimate for this month"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1640
+msgid "Total days in this month"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1644
+msgid "Total Full days"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1648
+msgid "Total Half days"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1669
+msgid "Total Full days("
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1673
+msgid "Total Half days("
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1678
+msgid "Total Working Hours for this month"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1682
+msgid "Total leave Hours for this Month"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1686
+msgid "Estimated Total Working Hours"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1961
+msgid "User IP"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:1993
+msgid "User Location"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2029
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2322
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2444
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2560
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2675
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2788
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2909
+#: admin/inc/helpers/wl-hrm-lite-helper.php:3033
+msgid "Mail sent"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2031
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2324
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2446
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2562
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2677
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2790
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2911
+#: admin/inc/helpers/wl-hrm-lite-helper.php:3035
+msgid "Mail not sent"
+msgstr ""
+
+#: admin/inc/helpers/wl-hrm-lite-helper.php:2055
+msgid "Offine IN"
+msgstr ""
+
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:48
+msgid "Last Day Working Hours"
+msgstr ""
+
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:59
+msgid "Total Attendance"
+msgstr ""
+
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:70
+msgid "Total Absent"
+msgstr ""
+
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:116
+msgid "Activitys"
+msgstr ""
+
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:131
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:100
+msgid "Submit you reson"
+msgstr ""
+
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:134
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:103
+msgid "Enter your reson to come late today"
+msgstr ""
+
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:135
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:156
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:104
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:125
+msgid "Content...."
+msgstr ""
+
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:155
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:124
+msgid "Submit your daily report"
+msgstr ""
+
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:250
+msgid "Exact"
+msgstr ""
+
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:253
+msgid "Estimated"
+msgstr ""
+
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:290
+msgid "Assigned Tasks"
+msgstr ""
+
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:296
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:308
+msgid "Project"
+msgstr ""
+
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:297
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:309
+msgid "Task"
+msgstr ""
+
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:299
+#: admin/inc/subscriber/wl_hrm_lite_staff_dash.php:311
+msgid "Due Date"
+msgstr ""
+
+#: admin/inc/subscriber/wl_hrm_lite_staff_requests.php:20
+msgid "Add Leave Requests"
+msgstr ""
+
+#: public/inc/controllers/wl_hrm_lite_login_actions.php:57
+msgid "Your Office In Time is "
+msgstr ""
+
+#: public/inc/controllers/wl_hrm_lite_login_actions.php:86
+msgid "Your Lunch In Time is "
+msgstr ""
+
+#: public/inc/controllers/wl_hrm_lite_login_actions.php:112
+msgid "Your Lunch Out Time is "
+msgstr ""
+
+#: public/inc/controllers/wl_hrm_lite_login_actions.php:165
+msgid "Your Office Out Time is "
+msgstr ""
+
+#: public/inc/controllers/wl_hrm_lite_login_actions.php:209
+msgid "Late Reason Updated.!"
+msgstr ""
+
+#: public/inc/controllers/wl_hrm_lite_login_actions.php:233
+msgid "Daily Report Submitted.!"
+msgstr ""
+
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:13
+msgid "Good Morning, "
+msgstr ""
+
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:16
+msgid "Good Afternoon, "
+msgstr ""
+
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:19
+msgid "Good Evening, "
+msgstr ""
+
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:22
+msgid "Good Night, "
+msgstr ""
+
+#: public/inc/controllers/wl_hrm_lite_login_portal.php:33
+msgid "Staff Attendance"
+msgstr ""
